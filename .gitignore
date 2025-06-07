@@ -1,0 +1,26 @@
+# Node modules (legacy)
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Build artifacts
+/dist/
+
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit specific
+.streamlit/
+
+# Python package distribution
+build/
+*.egg-info/
